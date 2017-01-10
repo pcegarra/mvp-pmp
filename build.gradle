@@ -13,11 +13,11 @@ buildscript {
 
 allprojects {
   ext {
-    androidApplicationId = 'com.pumpun.gradiant.presentation'
+    androidApplicationId = 'com.pumpun.fleap.presentation'
     androidVersionCode = 1
     androidVersionName = "1.0"
     testInstrumentationRunner = "android.support.test.runner.AndroidJUnitRunner"
-    testApplicationId = 'com.pumpun.gradiant.presentation.test'
+    testApplicationId = 'com.pumpun.fleap.presentation.test'
   }
 }
 

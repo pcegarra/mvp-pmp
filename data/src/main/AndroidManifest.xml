@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.pumpun.gradiant.data">
+    package="com.pumpun.fleap.data">
 
   <application android:allowBackup="true" />
 </manifest>
